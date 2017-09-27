@@ -1,0 +1,15 @@
+{
+  "name": "text-maze-renderer",
+  "version": "0.1.0",
+  "description": "A tool to render mazes created by the text-maze package",
+  "main": "index.js",
+  "keywords": [
+    "text",
+    "maze",
+    "renderer",
+    "painter",
+    "drawer"
+  ],
+  "author": "Jesse Blake <jesse@littlesystem.com>",
+  "license": "MIT"
+}
