@@ -1,1 +1,1 @@
-module.exports = require('./lib/text-maze-renderer');
+module.exports = require('./lib/text-maze-render');

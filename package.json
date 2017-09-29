@@ -1,15 +1,21 @@
 {
-  "name": "text-maze-renderer",
+  "name": "text-maze-render",
   "version": "0.1.0",
-  "description": "A tool to render mazes created by the text-maze package",
+  "description": "Rendering functions for mazes created with the text-maze package",
   "main": "index.js",
+  "scripts": {
+    "lint": "find ./lib -name '*.js' | xargs eslint && echo 'js linted ok'"
+  },
   "keywords": [
     "text",
     "maze",
-    "renderer",
+    "render",
     "painter",
     "drawer"
   ],
   "author": "Jesse Blake <jesse@littlesystem.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.7.2"
+  }
 }
