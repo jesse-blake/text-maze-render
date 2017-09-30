@@ -17,5 +17,13 @@
   "license": "MIT",
   "devDependencies": {
     "eslint": "^4.7.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesse-blake/text-maze-render.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jesse-blake/text-maze-render/issues"
+  },
+  "homepage": "https://github.com/jesse-blake/text-maze-render#readme"
 }
