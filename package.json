@@ -1,6 +1,6 @@
 {
   "name": "text-maze-render",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Rendering functions for mazes created with the text-maze package",
   "main": "index.js",
   "scripts": {
