@@ -2,6 +2,8 @@
 
 Rendering functions for mazes created with the [text-maze](https://github.com/jesse-blake/text-maze) package. Rendering is via the HTML <canvas> API.
 
+See it in use: [https://littlesystem.com/maze](https://littlesystem.com/maze)
+
 ## Install
 
 ```sh
