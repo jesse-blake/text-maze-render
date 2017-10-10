@@ -12,7 +12,7 @@ npm install --save text-maze-render
 
 ## Usage
 
-Render a text maze with either the `blocky` or `bordered` rendering function.
+Render a text maze with either the `blocky`, `bordered` or `walled` rendering function.
 
 ```js
 var tm  = require('text-maze');
